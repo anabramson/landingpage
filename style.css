@@ -61,7 +61,7 @@ nav ul li a {
 .illustrations {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
     margin-top: 20px;
 }
 
@@ -75,11 +75,13 @@ nav ul li a {
     border: 2px solid #3882F6;
     background-color: #F9FAF8;
     margin: 0 auto;
+    border-radius: 10px;
 }
 
 .illustration p {
     font-size: 18px;
     color: #E5E7EB;
+    margin-top: 10px;
 }
 
 .quote {
